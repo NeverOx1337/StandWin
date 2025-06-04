@@ -1,4 +1,4 @@
-PlayerID=("1337")
+PlayerID=("1")
 BanStatus=("false")
 BanReason=("Оке изменил")
 IP=("owf0f9hPTBMLpZxHaXVQuQ==")
