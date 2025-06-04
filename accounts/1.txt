@@ -1,5 +1,5 @@
-PlayerID=("1")
-BanStatus=("true")
+PlayerID=("1337")
+BanStatus=("false")
 BanReason=("Оке изменил")
 IP=("owf0f9hPTBMLpZxHaXVQuQ==")
 RegisterDate=("2025-06-03 19:48:52")
