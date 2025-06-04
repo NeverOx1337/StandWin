@@ -1,6 +1,6 @@
 PlayerID=("3")
 BanStatus=("true")
-BanReason=("PIDOR")
+BanReason=("")
 IP=("2sKY6GEXMIuOvVN4xhDUOA==")
 RegisterDate=("2025-06-04 20:54:42")
 PlayerName=("Игрок 6443")
