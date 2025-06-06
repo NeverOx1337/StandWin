@@ -1,0 +1,6 @@
+PlayerID=("12")
+BanStatus=("false")
+BanReason=("")
+IP=("2sKY6GEXMIuOvVN4xhDUOA==")
+RegisterDate=("2025-06-06 07:55:52")
+PlayerName=("Игрок 6405")
