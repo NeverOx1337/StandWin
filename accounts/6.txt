@@ -1,5 +1,5 @@
 PlayerID=("6")
-BanStatus=("true")
+BanStatus=("false")
 BanReason=("Я ПРЕДУПРЕЖДАЛ ТЕБЯ")
 IP=("E7QL9nsbmykbN21ABInAxw==")
 RegisterDate=("2025-06-05 19:28:55")
