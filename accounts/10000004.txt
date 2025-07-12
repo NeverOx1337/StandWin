@@ -1,6 +1,6 @@
 PlayerID=("10000004")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("чооо тест шок")
 IP=("OnT77UPGz1gvHGztQ4E/kA==")
 RegisterDate=("2025-07-12 13:08:06")
 PlayerName=("Игрок 7085")
