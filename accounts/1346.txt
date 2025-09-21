@@ -1,6 +1,6 @@
 PlayerID=("1346")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("еркоша гей крч")
 IP=("i8xh8CCx172xUlzSwvEdyQ==")
 RegisterDate=("2025-09-21 16:41:52")
 PlayerName=("Игрок 1665")
