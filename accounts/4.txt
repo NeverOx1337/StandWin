@@ -1,6 +1,6 @@
 PlayerID=("4")
-BanStatus=("false")
-Banpricol=("")
+BanStatus=("true")
+Banpricol=("12313")
 IP=("VZ2gOpSCKQQ6te1d2h5wgw==")
 RegisterDate=("2025-09-21 17:20:06")
 PlayerName=("Unknown")
