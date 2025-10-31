@@ -1,6 +1,6 @@
 PlayerID=("18")
-BanStatus=("false")
-Banpricol=("")
+BanStatus=("true")
+Banpricol=("А вот идите нахуй тест MoonProjectRework (неверох лютый ворк")
 IP=("fZpnDx4Phd9XGNbACSblqg==")
 RegisterDate=("2025-10-31 16:45:26")
 PlayerName=("NeverOx")
