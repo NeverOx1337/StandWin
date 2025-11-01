@@ -1,6 +1,6 @@
 PlayerID=("25")
-BanStatus=("false")
-Banpricol=("")
+BanStatus=("true")
+Banpricol=("Снова всё работает :)")
 IP=("VZ2gOpSCKQQ6te1d2h5wgw==")
 RegisterDate=("2025-11-01 16:48:06")
 PlayerName=("NeverOx")
