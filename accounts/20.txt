@@ -1,4 +1,4 @@
-PlayerID=("20")
+PlayerID=("1337")
 BanStatus=("false")
 Banpricol=("")
 IP=("Qx50EYqLGtgwt1iJH0fxJA==")
