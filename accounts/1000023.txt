@@ -1,6 +1,6 @@
 PlayerID=("1000023")
-BanStatus=("true")
-Banpricol=("Loshara")
+BanStatus=("flase")
+Banpricol=("")
 IP=("yXB7IeUtGSRSwQ1jfAmQhQ==")
 RegisterDate=("2025-11-03 04:49:26")
 PlayerName=("гандон")
