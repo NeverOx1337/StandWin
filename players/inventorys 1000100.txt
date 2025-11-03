@@ -1,2 +1,2 @@
 InventorySkins=("M9Bayonet_GragonGlass,AWM_TreasureHunter,AWM_TreasureHunter,deagle_aureate,Fabm_Boom,Famas_Fury,FnFal_Leather,G22_Relic,KnifeBayonet_AmberKoi,M9Bayonet_BlueBlood,MAC10_RubyShadow,P350_Blizzard,SPAS_Raider,SM1014_FreezingGasp,UMP45_Beast,USP_DigitalBurst,VAL_Orbit")
-Gold=("255124,6")
+Gold=("99999")
