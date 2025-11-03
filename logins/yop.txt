@@ -1,0 +1,2 @@
+Password=("IE1NoTjdIlrcxC5umJLd7Q==")
+PlayerId=("1000102")
