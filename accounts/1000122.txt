@@ -1,6 +1,6 @@
 PlayerID=("1000122")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Степан Гей")
 IP=("G7P7s3YUyWUDHTa/AgBQkg==")
 RegisterDate=("2025-11-05 07:29:04")
 PlayerName=("1337")
