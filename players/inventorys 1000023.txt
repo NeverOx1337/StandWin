@@ -1,0 +1,2 @@
+InventorySkins=("M9Bayonet_GragonGlass,AKR12_Emberbird,AKR_2YearsRed,AWM_SportV2,AWM_TreasureHunter,Butterfly_Gambit,DaggerKnife_Harmony,deagle_aureate,FnFal_Leather,G22_Relic,gloves_pinkfear,jKommando_Floral,KnifeBayonet_Kumo,KnifeFang_Flare,KnifeButterfly_Kumo,MAC10_RubyShadow,P350_Impact,USP_Genesis,val_pinkdevil,Sting_Default,GlovesAutumn,M40_Monster")
+Gold=("380000")
