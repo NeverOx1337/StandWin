@@ -1,3 +1,0 @@
-
-
-RequestToFriend=("1000058")
